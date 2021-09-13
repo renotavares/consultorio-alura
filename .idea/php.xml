@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/codebase/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/codebase/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/codebase/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/codebase/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/codebase/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/codebase/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/codebase/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/codebase/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/codebase/vendor/composer" />
+      <path value="$PROJECT_DIR$/codebase/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/codebase/vendor/nikic/php-parser" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+</project>
